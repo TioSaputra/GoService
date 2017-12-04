@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="utama"
+        android:icon="@drawable/sample"/>
+    <item
+        android:id="@+id/maps"
+        android:title="Maps"
+        android:icon="@drawable/sample"/>
+    <item
+        android:id="@+id/on_service"
+        android:title="Service"
+        android:icon="@drawable/sample"/>
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/sample"/>
+</menu>
