@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1087992317524",
+    "firebase_url": "https://go-service-46283.firebaseio.com",
+    "project_id": "go-service-46283",
+    "storage_bucket": "go-service-46283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087992317524:android:621091dfc310b908",
+        "android_client_info": {
+          "package_name": "coder.service.go.com.goservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087992317524-a6pdou2bvdq0ttvfivtu5bm6aq0v9stt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "coder.service.go.com.goservice",
+            "certificate_hash": "f41ea01422752b1a89b44b4a76dab36866f8a74d"
+          }
+        },
+        {
+          "client_id": "1087992317524-pdbfkqmnnupgrce9kamlrp4egcrjinmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvuu1AHxWp8khV9iANMAuBZaCFZkNUuw4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087992317524-pdbfkqmnnupgrce9kamlrp4egcrjinmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
