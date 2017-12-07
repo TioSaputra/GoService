@@ -54,11 +54,11 @@
                             android:layout_height="wrap_content"
                             android:textStyle="bold"
                             android:layout_marginTop="10dp"
-                            android:text="Banking"/>
+                            android:text="katagori"/>
                         <View
                             android:layout_width="match_parent"
                             android:layout_height="1dp"
-                            android:background="@color/lightgray"
+
                             android:layout_margin="10dp"/>
                         <TextView
                             android:layout_width="wrap_content"
@@ -92,11 +92,11 @@
                             android:layout_height="wrap_content"
                             android:textStyle="bold"
                             android:layout_marginTop="10dp"
-                            android:text="Ideas"/>
+                            android:text="katagori"/>
                         <View
                             android:layout_width="match_parent"
                             android:layout_height="1dp"
-                            android:background="@color/lightgray"
+
                             android:layout_margin="10dp"/>
                         <TextView
                             android:layout_width="wrap_content"
@@ -138,11 +138,11 @@
                             android:layout_height="wrap_content"
                             android:textStyle="bold"
                             android:layout_marginTop="10dp"
-                            android:text="Add"/>
+                            android:text="katagori"/>
                         <View
                             android:layout_width="match_parent"
                             android:layout_height="1dp"
-                            android:background="@color/lightgray"
+
                             android:layout_margin="10dp"/>
                         <TextView
                             android:layout_width="wrap_content"
@@ -178,14 +178,14 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
-                            android:text="Links"
+                            android:text="katagori"
                             android:textStyle="bold" />
 
                         <View
                             android:layout_width="match_parent"
                             android:layout_height="1dp"
                             android:layout_margin="10dp"
-                            android:background="@color/lightgray" />
+                            />
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -227,11 +227,11 @@
                             android:layout_height="wrap_content"
                             android:textStyle="bold"
                             android:layout_marginTop="10dp"
-                            android:text="Add"/>
+                            android:text="katagori"/>
                         <View
                             android:layout_width="match_parent"
                             android:layout_height="1dp"
-                            android:background="@color/lightgray"
+
                             android:layout_margin="10dp"/>
                         <TextView
                             android:layout_width="wrap_content"
@@ -267,14 +267,14 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
-                            android:text="Links"
+                            android:text="katagori"
                             android:textStyle="bold" />
 
                         <View
                             android:layout_width="match_parent"
                             android:layout_height="1dp"
                             android:layout_margin="10dp"
-                            android:background="@color/lightgray" />
+                            />
 
                         <TextView
                             android:layout_width="wrap_content"
