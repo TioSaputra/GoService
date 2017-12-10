@@ -17,6 +17,9 @@
         <activity android:name=".ProviderDetailActivity">
         </activity>
         <activity android:name=".ProviderListActivity">
+
+        </activity>
+        <activity android:name=".LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
