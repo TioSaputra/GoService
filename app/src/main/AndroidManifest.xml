@@ -13,7 +13,9 @@
         <activity android:name=".SignUpActivity">
 
         </activity>
-        <activity android:name=".HomeActivity"></activity>
+        <activity android:name=".HomeActivity">
+
+        </activity>
         <activity android:name=".ProviderDetailActivity">
         </activity>
         <activity android:name=".ProviderListActivity">
